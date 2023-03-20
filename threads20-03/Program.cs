@@ -46,8 +46,16 @@ namespace threads20_03
             //Console.Write(bag.Count);
 
             // 4)
+            UzivatelManager uzivatelManager = new UzivatelManager();
+            uzivatelManager.AddUser(new Uzivatel("Tony","Test",UserRights.User));
+            uzivatelManager.AddUser(new Uzivatel("Tonda", "Test", UserRights.User));
 
+            foreach (var usr in uzivatelManager.GetUzivateliPodlePrav(UserRights.User))
+            {
+                Console.WriteLine(usr.UzivatelLoginName); 
+            }
 
+            Console.WriteLine(uzivatelManager.GetUzivatelPodleHesla("Test").UzivatelLoginName);
         }
 
 
