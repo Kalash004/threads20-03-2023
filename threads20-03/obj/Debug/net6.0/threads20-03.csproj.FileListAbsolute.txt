@@ -1,0 +1,15 @@
+M:\csharp\Middle\threads20-03\threads20-03\bin\Debug\net6.0\threads20-03.exe
+M:\csharp\Middle\threads20-03\threads20-03\bin\Debug\net6.0\threads20-03.deps.json
+M:\csharp\Middle\threads20-03\threads20-03\bin\Debug\net6.0\threads20-03.runtimeconfig.json
+M:\csharp\Middle\threads20-03\threads20-03\bin\Debug\net6.0\threads20-03.dll
+M:\csharp\Middle\threads20-03\threads20-03\bin\Debug\net6.0\threads20-03.pdb
+M:\csharp\Middle\threads20-03\threads20-03\obj\Debug\net6.0\threads20-03.csproj.AssemblyReference.cache
+M:\csharp\Middle\threads20-03\threads20-03\obj\Debug\net6.0\threads20-03.GeneratedMSBuildEditorConfig.editorconfig
+M:\csharp\Middle\threads20-03\threads20-03\obj\Debug\net6.0\threads20-03.AssemblyInfoInputs.cache
+M:\csharp\Middle\threads20-03\threads20-03\obj\Debug\net6.0\threads20-03.AssemblyInfo.cs
+M:\csharp\Middle\threads20-03\threads20-03\obj\Debug\net6.0\threads20-03.csproj.CoreCompileInputs.cache
+M:\csharp\Middle\threads20-03\threads20-03\obj\Debug\net6.0\threads20-03.dll
+M:\csharp\Middle\threads20-03\threads20-03\obj\Debug\net6.0\refint\threads20-03.dll
+M:\csharp\Middle\threads20-03\threads20-03\obj\Debug\net6.0\threads20-03.pdb
+M:\csharp\Middle\threads20-03\threads20-03\obj\Debug\net6.0\threads20-03.genruntimeconfig.cache
+M:\csharp\Middle\threads20-03\threads20-03\obj\Debug\net6.0\ref\threads20-03.dll
